@@ -1,0 +1,14 @@
+---
+:id: 206471061
+:submitters:
+- :name: Piyush Abnave
+  :email: mt1221289@maths.iitd.ac.in
+- :name: Dhruv Joshi
+  :email: ee3222079@ee.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-26 16:25:55.204642000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-26 09:25:55.204642000 Z
+:status: processed
+:score: 60.0
